@@ -3,7 +3,8 @@
 
 An Efficient and Stable Ptychographic Imaging Method
 
-Abstract
+**Abstract**
+
 Ptychography is a lensless coherent imaging technique that leverages various advantages observed in
 other lensless coherent imaging methods, such as digital holography. These advantages include high
 phase sensitivity, non-contact, non-destructive imaging, wide field of view, and diffraction-limited
