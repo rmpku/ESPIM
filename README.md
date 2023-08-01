@@ -1,6 +1,5 @@
-# ESPIM 
-An Efficient and Stable Ptychographic Imaging Method
+### ESPIM ###
 
-< 
-IWH2018-International Workshop on Holography and Related Technologies 
->
+# IWH2018-International Workshop on Holography and Related Technologies 
+
+An Efficient and Stable Ptychographic Imaging Method
